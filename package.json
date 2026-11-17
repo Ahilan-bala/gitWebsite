@@ -1,0 +1,25 @@
+{
+  "name": "gitwebsite",
+  "version": "1.0.0",
+  "description": "Route Builder - A football route planning tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx http-server -p 3000",
+    "preview": "npx http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahilan-bala/gitWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahilan-bala/gitWebsite/issues"
+  },
+  "homepage": "https://github.com/Ahilan-bala/gitWebsite#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
